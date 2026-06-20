@@ -20,11 +20,11 @@ The dashboard utilizes a powerful drill-through button to allow users to dynamic
 * **Sourcing & Job Types:** Insights into where to find these jobs (e.g., LinkedIn, BeBee, Indeed) via a bar chart, and a treemap detailing the breakdown of employment types, highlighting that full-time positions (88.00K) strictly dominate the market.
 
 ## 📂 Repository Structure
-* `Project_1.pbix`: The primary Power BI dashboard file containing the data model, interactive visuals, and drill-through pages.
+* `Job_Dashboard.pbix`: The primary Power BI dashboard file containing the data model, interactive visuals, and drill-through pages.
 * `README.md`: Project documentation and usage guide.
 
 ## 🚀 How to Use
-1. Download the `Project_1.pbix` file to your local machine.
+1. Download the `Job_Dashboard.pbix` file to your local machine.
 2. Open the file using Power BI Desktop.
 3. On the main "Data Jobs Dashboard" page, select a specific job title from the "Select Job Title" dropdown or click on a role within the table/visualizations.
 4. Click the **Drill through job title** button to seamlessly navigate to the detailed breakdown for that specific career path.
