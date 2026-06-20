@@ -3,6 +3,14 @@
 ## 📌 Overview
 This repository contains an interactive Power BI dashboard designed to analyze the data professional job market. The dashboard provides a comprehensive view of approximately 479K job postings, tracking market trends over the year 2024. It features a macro-level industry overview alongside a dynamic drill-through capability for granular role analysis.
 
+## 📸 Dashboard Previews
+
+**Main Market Overview**
+![Main Data Jobs Dashboard](images\home_page.png)
+
+**Dynamic Role Drill-Through (Data Analyst)**
+![Data Analyst Drill Through View](images\drill_through_page.png)
+
 ## 📊 Dashboard Features
 
 ### 1. High-Level Market Overview
