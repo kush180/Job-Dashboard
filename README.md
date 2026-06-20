@@ -6,10 +6,10 @@ This repository contains an interactive Power BI dashboard designed to analyze t
 ## 📸 Dashboard Previews
 
 **Main Market Overview**
-![Main Data Jobs Dashboard](images\home_page.png)
+![Main Data Jobs Dashboard](images/home_page.png)
 
 **Dynamic Role Drill-Through (Data Analyst)**
-![Data Analyst Drill Through View](images\drill_through_page.png)
+![Data Analyst Drill Through View](images/drill_through_page.png)
 
 ## 📊 Dashboard Features
 
